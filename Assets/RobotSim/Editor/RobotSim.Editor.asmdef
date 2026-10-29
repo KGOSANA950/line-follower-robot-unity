@@ -1,0 +1,19 @@
+{
+    "name": "RobotSim.Editor",
+    "rootNamespace": "RobotSim.EditorTools",
+    "references": [
+        "RobotSim.Runtime",
+        "RobotSim.Examples"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
